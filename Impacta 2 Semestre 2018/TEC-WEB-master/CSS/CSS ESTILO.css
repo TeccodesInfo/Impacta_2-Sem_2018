@@ -1,0 +1,28 @@
+body{
+     background: white;
+}
+p{
+    font-family: Tahoma, sans-sherif;
+    color: red;
+    text-shadow: 2px 2px 2px black:
+    font-size: 25px;
+}
+p.cor{
+    color: yellowgreen;
+}
+.centro{
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+    text-align: center;
+}
+.formato{
+    text-align: center;
+    color: silver;
+    font-family: Tahoma;
+}
+.formato2{
+    text-align:left;
+    color: pink;
+    font-family: 'Lucida Sans';
+}
+    

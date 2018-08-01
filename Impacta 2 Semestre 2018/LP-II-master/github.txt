@@ -1,0 +1,15 @@
+Criar repositorio no github
+
+Desktop\projeto>git init
+Desktop\projeto>git config --global user.email "seu@exemplo.com"
+Desktop\projeto>git config --global user.name "Seu Nome"
+Desktop\projeto>git clone https://github.com/seugit/lp2.git
+Desktop\projeto>cd lp2
+Desktop\projeto\lp2>git status
+Desktop\projeto\lp2>git add *
+Desktop\projeto\lp2>git commit -m "linguagem de programacao II"
+Desktop\projeto\lp2>git remote add origin https://github.com/seugit/lp2.git
+Desktop\projeto\lp2>git push -u origin master
+
+
+
